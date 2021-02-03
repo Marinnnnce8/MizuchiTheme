@@ -1,0 +1,27 @@
+{
+  "name": "MizuchiTheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marinnnnce8/MizuchiTheme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marinnnnce8/MizuchiTheme/issues"
+  },
+  "homepage": "https://github.com/Marinnnnce8/MizuchiTheme#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.11",
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^3.1.2",
+    "sass": "^1.32.6",
+    "sass-loader": "^8.0.2"
+  }
+}
